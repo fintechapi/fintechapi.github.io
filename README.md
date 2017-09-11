@@ -1,1 +1,1 @@
-### Welcom to fintechapi.net ###
+### Welcome to fintechapi.net ###
